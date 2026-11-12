@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Food Order Website
 
 A responsive and user-friendly food ordering website built with HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL for seamless online ordering.
@@ -51,3 +52,7 @@ TS-developer
 6. Select your .sql file
 7. Click Go
 
+=======
+# Food_Order_Website
+A responsive and user-friendly food ordering website built with HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL for seamless online ordering.
+>>>>>>> 87d32f7b89d0f784d7e9236a84b2eb42d13989ca
